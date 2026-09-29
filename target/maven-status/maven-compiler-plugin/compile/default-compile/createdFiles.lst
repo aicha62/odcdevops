@@ -1,0 +1,5 @@
+com\odc\odcdevops\entites\Student.class
+com\odc\odcdevops\api\StudentApi.class
+com\odc\odcdevops\services\StudentServices.class
+com\odc\odcdevops\OdcdevopsApplication.class
+com\odc\odcdevops\repository\StudentRepository.class
